@@ -245,6 +245,7 @@ body{
 #btns{
     background-color: #D35400;
     border: 5px solid #D35400;
+    
 }
 #btns:hover{
     color: white;
